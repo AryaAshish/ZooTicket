@@ -8,6 +8,6 @@ Make sure you have Node.js installed on your machine. If not, you can download i
 
 ## Installation
 
-# npm install
-# npm start
+### npm install
+### npm start
 
